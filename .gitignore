@@ -1,0 +1,30 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Password vault file
+.password_vault.dat
+
+# System files
+.DS_Store
+Thumbs.db 
